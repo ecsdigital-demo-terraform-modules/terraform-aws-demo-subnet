@@ -24,7 +24,7 @@ module "aws_subnet" {
 
 ## Notes
 
-This module is best used in conjunction with the terraform-aws-demo-basic-network module.
+This module is best used in conjunction with the [terraform-aws-demo-basic-network](https://github.com/ecsdigital-demo-terraform-modules/terraform-aws-demo-basic-network) module.
 
 ## Inputs
 
